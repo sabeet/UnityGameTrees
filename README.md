@@ -4,4 +4,4 @@ It's an endless runner where a the main object must traverse through a "forest" 
 
 You can view the final product here
 
-sabeet.me/unityGame.html
+sabeet.me/unity/unityGame.html
